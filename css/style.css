@@ -241,6 +241,10 @@ p + .btn_wr {
   font-size: 24px;
   vertical-align: bottom;
 }
+.brand_logo {
+	display: inline-block;
+	background-image: url(../images/logo.png);
+}
 .brand a:hover {
   color: inherit;
 }
