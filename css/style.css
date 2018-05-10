@@ -309,7 +309,7 @@ p + .btn_wr {
   font-size: 52px;
   text-align: center;
   color: #fff;
-  background: #62bfe6;
+  background: #145092;
   -moz-transition: 0.3s all ease;
   -o-transition: 0.3s all ease;
   -webkit-transition: 0.3s all ease;
@@ -367,7 +367,7 @@ p + .btn_wr {
 
 .btn {
   color: #fff;
-  background: #62bfe6;
+  background: #145092;
 }
 
 .btn2 {
@@ -444,7 +444,7 @@ p + .btn_wr {
   padding: 25px 29px 20px;
   float: left;
   color: #fff;
-  background: #62bfe6;
+  background: #145092;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -483,13 +483,13 @@ p + .btn_wr {
   right: 30px;
 }
 .banner li:nth-child(1) {
-  background: #57aacd;
+  background: #145092;
 }
 .banner li:nth-child(2) {
-  background: #55b0d6;
+  background: #145092;
 }
 .banner li:nth-child(3) {
-  background: #5bb7de;
+  background: #145092;
 }
 .banner h3 {
   color: #fff;
@@ -589,7 +589,7 @@ blockquote q:before {
   left: 0;
   padding-right: 7px;
   content: "\f10d";
-  color: #62bfe6;
+  color: #145092;
   font-family: "FontAwesome";
   font-size: 34px;
   line-height: 28px;
@@ -599,7 +599,7 @@ blockquote q:before {
 blockquote cite {
   display: block;
   font-size: 16px;
-  color: #62bfe6;
+  color: #145092;
 }
 blockquote cite a:hover {
   text-decoration: underline;
@@ -644,7 +644,7 @@ blockquote p + cite {
   padding-bottom: 16px;
   font-size: 16px;
   line-height: 18px;
-  color: #62bfe6;
+  color: #145092;
 }
 .marked-list li a:before {
   content: "\f00c";
@@ -738,7 +738,7 @@ table tr:nth-child(even) {
   margin-top: 7px;
   padding: 30px 30px 25px;
   color: #fff;
-  background: #57aacd;
+  background: #145092;
 }
 .info-box dt,
 .info-box dd {
@@ -1193,7 +1193,7 @@ header a[href^="callto:"]:before {
   top: -4px;
   left: -44px;
   font-size: 34px;
-  color: #6bc7ed;
+  color: #145092;
 }
 header a[href^="callto:"]:hover {
   color: map;
